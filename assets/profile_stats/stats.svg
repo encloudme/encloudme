@@ -1,0 +1,40 @@
+<svg width="380" height="215" viewBox="0 0 380 215" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7aa2f7; }
+    .stat-label { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
+    .stat-val { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .stat-text { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
+  </style>
+
+  <rect width="379" height="214" rx="10" fill="#1a1b26" stroke="#24283b" stroke-width="1"/>
+
+  <text x="25" y="35" class="header">⚡ Local Combined Git Stats</text>
+
+  <g transform="translate(25, 60)">
+    <text x="0" y="0" class="stat-label">Total Commits (All Repos):</text>
+    <text x="230" y="0" class="stat-val">0</text>
+
+    <text x="0" y="25" class="stat-label">Tracked Repositories:</text>
+    <text x="230" y="25" class="stat-val">6</text>
+
+    <text x="0" y="50" class="stat-label">Execution Engine:</text>
+    <text x="230" y="50" class="stat-val">Local (Offline)</text>
+  </g>
+
+  <line x1="25" y1="130" x2="355" y2="130" stroke="#24283b" stroke-width="1"/>
+
+  <rect x="25.0" y="150" width="294.5" height="8" rx="4" fill="#3572A5"/><rect x="321.5" y="150" width="13.3" height="8" rx="4" fill="#083fa1"/><rect x="336.8" y="150" width="6.8" height="8" rx="4" fill="#89e051"/><rect x="345.6" y="150" width="5.4" height="8" rx="4" fill="#292929"/>
+  
+        <circle cx="25" cy="175" r="4" fill="#3572A5" />
+        <text x="35" y="179" class="stat-text">Python 92%</text>
+        
+        <circle cx="175" cy="175" r="4" fill="#083fa1" />
+        <text x="185" y="179" class="stat-text">Markdown 4%</text>
+        
+        <circle cx="25" cy="193" r="4" fill="#89e051" />
+        <text x="35" y="197" class="stat-text">Shell 2%</text>
+        
+        <circle cx="175" cy="193" r="4" fill="#292929" />
+        <text x="185" y="197" class="stat-text">JSON 2%</text>
+        
+</svg>
