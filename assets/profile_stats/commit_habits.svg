@@ -14,30 +14,30 @@
 
   
   <text x="25" y="80" class="stat-label">Morning (06-12)</text>
-  <text x="135" y="80" class="stat-val">30 (31%)</text>
+  <text x="135" y="80" class="stat-val">30 (30%)</text>
   <rect x="190" y="73" width="160" height="6" rx="3" fill="#eaeef2"/>
-  <rect x="190" y="73" width="49.0" height="6" rx="3" fill="#0969da"/>
+  <rect x="190" y="73" width="48.5" height="6" rx="3" fill="#0969da"/>
 
   <text x="25" y="100" class="stat-label">Afternoon (12-18)</text>
   <text x="135" y="100" class="stat-val">18 (18%)</text>
   <rect x="190" y="93" width="160" height="6" rx="3" fill="#eaeef2"/>
-  <rect x="190" y="93" width="29.4" height="6" rx="3" fill="#0969da"/>
+  <rect x="190" y="93" width="29.1" height="6" rx="3" fill="#0969da"/>
 
   <text x="25" y="120" class="stat-label">Evening (18-24)</text>
-  <text x="135" y="120" class="stat-val">29 (30%)</text>
+  <text x="135" y="120" class="stat-val">30 (30%)</text>
   <rect x="190" y="113" width="160" height="6" rx="3" fill="#eaeef2"/>
-  <rect x="190" y="113" width="47.3" height="6" rx="3" fill="#0969da"/>
+  <rect x="190" y="113" width="48.5" height="6" rx="3" fill="#0969da"/>
 
   <text x="25" y="140" class="stat-label">Night (00-06)</text>
   <text x="135" y="140" class="stat-val">21 (21%)</text>
   <rect x="190" y="133" width="160" height="6" rx="3" fill="#eaeef2"/>
-  <rect x="190" y="133" width="34.3" height="6" rx="3" fill="#0969da"/>
+  <rect x="190" y="133" width="33.9" height="6" rx="3" fill="#0969da"/>
 
 
   <line x1="25" y1="158" x2="355" y2="158" stroke="#d0d7de" stroke-width="1"/>
 
   <g transform="translate(25, 180)">
-    <text x="0" y="0" class="footer-text">Weekdays (Mon-Fri): <tspan class="stat-val">43 (44%)</tspan></text>
-    <text x="180" y="0" class="footer-text">Weekends (Sat-Sun): <tspan class="stat-val">55 (56%)</tspan></text>
+    <text x="0" y="0" class="footer-text">Weekdays (Mon-Fri): <tspan class="stat-val">43 (43%)</tspan></text>
+    <text x="180" y="0" class="footer-text">Weekends (Sat-Sun): <tspan class="stat-val">56 (57%)</tspan></text>
   </g>
 </svg>
