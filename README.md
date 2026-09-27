@@ -32,10 +32,10 @@ I am an **IT Systems Architect & Senior Data Analyst** with **14+ years of enter
 
 ### 🚀 Featured Flagship Projects
 
-| Project                                                                               | Category         | Description                                                                                                           | Key Tech Stack                     | Release / Status                                                                                                                                                   |
-|:--------------------------------------------------------------------------------------|:-----------------|:----------------------------------------------------------------------------------------------------------------------|:-----------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project                                                                               | Category         | Description                                                                                                           | Key Tech Stack                     | Release / Status                                                                                                                                                        |
+|:--------------------------------------------------------------------------------------|:-----------------|:----------------------------------------------------------------------------------------------------------------------|:-----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 🛡️ **[FileMint (v15.0.2)](https://github.com/encloudme/FileMint)**                    | 💻 IT & Software | Zero-dependency GTK/Windows desktop application for automated file sanitization, system utilities, and data cleaning. | Python, GTK, Windows Automation    | [![R](https://img.shields.io/github/v/release/encloudme/FileMint?label=R%20:&style=flat&logo=github&color=brightgreen)](https://github.com/encloudme/FileMint/releases) |
-| 📦 **[Project-DigitalArchive](https://github.com/kr-hari-ps/Project-DigitalArchive)** | 🌐 Systems / IT  | Automated digital archiving system designed for structured data retention, metadata indexing, and media preservation. | Python, Automated Workflows, Shell | `Active Build`                                                                                                                                                     |
+| 📦 **[Project-DigitalArchive](https://github.com/kr-hari-ps/Project-DigitalArchive)** | 🌐 Systems / IT  | Automated digital archiving system designed for structured data retention, metadata indexing, and media preservation. | Python, Automated Workflows, Shell | `Active Build`                                                                                                                                                          |
 
 ---
 
@@ -66,4 +66,12 @@ I am an **IT Systems Architect & Senior Data Analyst** with **14+ years of enter
 - ✉️ Email: **`kr.hari@outlook.com`**
 - 🌐 GitHub Profile: [**encloudme**](https://github.com/encloudme)
 - 🌐 GitHub Profile: [**kr-hari-ps**](https://github.com/kr-hari-ps)
+---
+
+<div style="text-align: center;">
+    <img src="assets/profile_stats/stats.svg" alt="Local Combined Git Stats" width="49%" />
+    <img src="assets/profile_stats/commit_habits.svg" alt="Commit Habits & Activity Schedule" width="49%" />
+    
+</div>
+
 ---

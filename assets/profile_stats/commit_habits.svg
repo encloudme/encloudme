@@ -4,51 +4,40 @@
     .sub-title { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #24292f; }
     .stat-label { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #57606a; }
     .stat-val { font: 700 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #0969da; }
+    .footer-text { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #57606a; }
   </style>
 
   <rect width="379" height="214" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
 
-  <text x="25" y="35" class="header">📅 Commit Habits & Activity Schedule</text>
+  <text x="25" y="35" class="header">📅 Commit Habits &amp; Activity Schedule</text>
+  <text x="25" y="58" class="sub-title">Productive Hours</text>
 
-  <!-- Time of Day -->
-  <text x="25" y="60" class="sub-title">Productive Hours</text>
-
-  <text x="25" y="80" class="stat-label">Morning (06-12)</text>
-  <text x="135" y="80" class="stat-val">0 (0%)</text>
   
-        <rect x="190" y="73" width="160" height="6" rx="3" fill="#eaeef2"/>
-        <rect x="190" y="73" width="2.0" height="6" rx="3" fill="#0969da"/>
-        
+  <text x="25" y="80" class="stat-label">Morning (06-12)</text>
+  <text x="135" y="80" class="stat-val">30 (31%)</text>
+  <rect x="190" y="73" width="160" height="6" rx="3" fill="#eaeef2"/>
+  <rect x="190" y="73" width="49.0" height="6" rx="3" fill="#0969da"/>
 
   <text x="25" y="100" class="stat-label">Afternoon (12-18)</text>
-  <text x="135" y="100" class="stat-val">0 (0%)</text>
-  
-        <rect x="190" y="93" width="160" height="6" rx="3" fill="#eaeef2"/>
-        <rect x="190" y="93" width="2.0" height="6" rx="3" fill="#0969da"/>
-        
+  <text x="135" y="100" class="stat-val">18 (18%)</text>
+  <rect x="190" y="93" width="160" height="6" rx="3" fill="#eaeef2"/>
+  <rect x="190" y="93" width="29.4" height="6" rx="3" fill="#0969da"/>
 
   <text x="25" y="120" class="stat-label">Evening (18-24)</text>
-  <text x="135" y="120" class="stat-val">0 (0%)</text>
-  
-        <rect x="190" y="113" width="160" height="6" rx="3" fill="#eaeef2"/>
-        <rect x="190" y="113" width="2.0" height="6" rx="3" fill="#0969da"/>
-        
+  <text x="135" y="120" class="stat-val">29 (30%)</text>
+  <rect x="190" y="113" width="160" height="6" rx="3" fill="#eaeef2"/>
+  <rect x="190" y="113" width="47.3" height="6" rx="3" fill="#0969da"/>
 
   <text x="25" y="140" class="stat-label">Night (00-06)</text>
-  <text x="135" y="140" class="stat-val">0 (0%)</text>
-  
-        <rect x="190" y="133" width="160" height="6" rx="3" fill="#eaeef2"/>
-        <rect x="190" y="133" width="2.0" height="6" rx="3" fill="#0969da"/>
-        
+  <text x="135" y="140" class="stat-val">21 (21%)</text>
+  <rect x="190" y="133" width="160" height="6" rx="3" fill="#eaeef2"/>
+  <rect x="190" y="133" width="34.3" height="6" rx="3" fill="#0969da"/>
 
-  <line x1="25" y1="155" x2="355" y2="155" stroke="#d0d7de" stroke-width="1"/>
 
-  <!-- Weekday Breakdown -->
-  <text x="25" y="175" class="stat-label">Weekdays (Mon-Fri):</text>
-  <text x="150" y="175" class="stat-val">0 (0%)</text>
+  <line x1="25" y1="158" x2="355" y2="158" stroke="#d0d7de" stroke-width="1"/>
 
-  <text x="210" y="175" class="stat-label">Weekends (Sat-Sun):</text>
-  <text x="330" y="175" class="stat-val">1 (100%)</text>
-
-  <text x="25" y="195" class="stat-label">Commit Distribution Engine: Offline Local Log Parsing</text>
+  <g transform="translate(25, 180)">
+    <text x="0" y="0" class="footer-text">Weekdays (Mon-Fri): <tspan class="stat-val">43 (44%)</tspan></text>
+    <text x="180" y="0" class="footer-text">Weekends (Sat-Sun): <tspan class="stat-val">55 (56%)</tspan></text>
+  </g>
 </svg>
