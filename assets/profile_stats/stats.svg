@@ -12,13 +12,13 @@
 
   <g transform="translate(25, 60)">
     <text x="0" y="0" class="stat-label">Total Commits (All Repos):</text>
-    <text x="230" y="0" class="stat-val">120</text>
+    <text x="230" y="0" class="stat-val">121</text>
 
     <text x="0" y="24" class="stat-label">Tracked Repositories:</text>
     <text x="230" y="24" class="stat-val">6</text>
 
     <text x="0" y="48" class="stat-label">Latest Activity Date:</text>
-    <text x="230" y="48" class="stat-val">Sep 28, 2026</text>
+    <text x="230" y="48" class="stat-val">Sep 29, 2026</text>
   </g>
 
   <line x1="25" y1="128" x2="355" y2="128" stroke="#d0d7de" stroke-width="1"/>
