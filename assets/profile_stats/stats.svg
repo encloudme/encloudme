@@ -12,7 +12,7 @@
 
   <g transform="translate(25, 60)">
     <text x="0" y="0" class="stat-label">Total Commits (All Repos):</text>
-    <text x="230" y="0" class="stat-val">199</text>
+    <text x="230" y="0" class="stat-val">210</text>
 
     <text x="0" y="24" class="stat-label">Tracked Repositories:</text>
     <text x="230" y="24" class="stat-val">6</text>
@@ -23,9 +23,9 @@
 
   <line x1="25" y1="128" x2="355" y2="128" stroke="#d0d7de" stroke-width="1"/>
 
-  <rect x="25.0" y="152" width="237.6" height="8" rx="4" fill="#3572A5"/>
-  <rect x="264.6" y="152" width="70.8" height="8" rx="4" fill="#555555"/>
-  <rect x="337.3" y="152" width="16.2" height="8" rx="4" fill="#292929"/>
+  <rect x="25.0" y="152" width="237.7" height="8" rx="4" fill="#3572A5"/>
+  <rect x="264.7" y="152" width="70.7" height="8" rx="4" fill="#555555"/>
+  <rect x="337.4" y="152" width="16.2" height="8" rx="4" fill="#292929"/>
   <rect x="355.6" y="152" width="5.4" height="8" rx="4" fill="#083fa1"/>
   
   <circle cx="25" cy="178" r="4" fill="#3572A5" />
